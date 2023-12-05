@@ -2,7 +2,7 @@
 
 
 
-## You can contact me at veyselgorgen@hotmail.com
+## You can contact me at ayd.iremm@gmail.com
 
 
 # 💻Tech Stack
