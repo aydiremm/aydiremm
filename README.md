@@ -27,9 +27,6 @@ Merhaba! Bilgisayar mühendisliği eğitimi alırken teknolojiye olan tutkumla p
 ## 🏆 Ödüller ve Sertifikalar
 - **Birincilik Ödülü**, Görüşüm Atölyesi Ön Kuluçka Programı (2024)  
 - **İkincilik Ödülü**, Sürdürülebilirlik Girişimcilik Maratonu (2023)  
-- BTK Akademi Sertifikaları: Oracle-SQL, Patent ve Faydalı Modellerin Korunması (2024)  
-- **Figma Eğitimi**: Arayüz tasarımı (2023)  
-
 ---
 
 ## 📈 GitHub İstatistiklerim
