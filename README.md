@@ -24,7 +24,7 @@ Merhaba! Bilgisayar mühendisliği eğitimi alırken teknolojiye olan tutkumla p
     
 ---
 
-## 🏆 Ödüller ve Sertifikalar
+## 🏆 Ödüller
 - **Birincilik Ödülü**, Görüşüm Atölyesi Ön Kuluçka Programı (2024)  
 - **İkincilik Ödülü**, Sürdürülebilirlik Girişimcilik Maratonu (2023)  
 ---
