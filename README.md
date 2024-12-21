@@ -33,8 +33,9 @@ Merhaba! Bilgisayar mühendisliği eğitimi alırken teknolojiye olan tutkumla p
 ---
 
 ## 📈 GitHub İstatistiklerim
-![İrem'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=aydiremm&show_icons=true&theme=radical)  
-![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=aydiremm&layout=compact&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydiremm&show_icons=true&theme=radical)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aydiremm&layout=compact&theme=radical)  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=aydiremm&theme=radical&hide_border=true)
 
 ---
 
