@@ -1,5 +1,3 @@
-## Merhaba, Ben İrem AYDIN 👋
-
 # 👋 Merhaba, Ben İrem Aydın!  
 🚀 **Bilgisayar Mühendisliği Öğrencisi | Yazılım Geliştirici**
 
